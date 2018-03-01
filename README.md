@@ -29,4 +29,10 @@ This demo is to showcase the intended functionality of the Fuudy interactive sto
    pip install -r requirements.txt
    python start.py config.ini
    ``` 
+   <h3>URL</h3>
+   raspberrypi:23456
    
+   
+   # Screenshot
+   ![Alt text](http://experiment.getfuudy.org/demo/screenshots/2.png)
+   ![Alt text](http://experiment.getfuudy.org/demo/screenshots/1.png)
