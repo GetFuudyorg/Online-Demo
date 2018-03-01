@@ -22,7 +22,7 @@ The intended use has two implications:
     <li>webcam</li>
   </ul>
   <h3>code</h3>
-  >pip install -r requirements.txt
-  >python start.py config.ini
+  > pip install -r requirements.txt
+  > python start.py config.ini
   </div>
    
